@@ -2,7 +2,7 @@
 
 🚀 Frontend Developer | React.js | Product-Focused Engineer  
 
-I’m a frontend developer with **4+ years of experience** building scalable, user-centric web applications.  
+I’m a frontend developer with **5+ years of experience** building scalable, user-centric web applications.  
 I enjoy working close to product requirements and translating them into clean, maintainable UI systems.
 
 ---
